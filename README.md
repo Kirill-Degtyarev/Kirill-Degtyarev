@@ -7,6 +7,9 @@
     <a href="mailto:kirill.degtyarev76@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
+    <a href="www.linkedin.com/in/kirill-degtyarev-90a967255">
+      <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Gmail Badge"/>
+    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Kirill-Degtyarev&style=flat-square&color=blue" alt=""/>
   <h1>
@@ -33,6 +36,8 @@
 - :control_knobs: Learning Arduino programming.
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Rat_46)
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kirill-degtyarev-90a967255)
 
 ---
 
